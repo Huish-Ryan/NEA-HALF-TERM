@@ -1,0 +1,22 @@
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\bin\Debug\net8.0-windows\NEA.exe
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\bin\Debug\net8.0-windows\NEA.deps.json
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\bin\Debug\net8.0-windows\NEA.runtimeconfig.json
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\bin\Debug\net8.0-windows\NEA.dll
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\bin\Debug\net8.0-windows\NEA.pdb
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\NEA_MarkupCompile.cache
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\NEA_MarkupCompile.lref
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\NEA.g.resources
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.AssemblyInfoInputs.cache
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.AssemblyInfo.cs
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.csproj.CoreCompileInputs.cache
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.sourcelink.json
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\NEA.dll
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\refint\NEA.dll
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\NEA.pdb
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\Git NEA.genruntimeconfig.cache
+C:\Users\fastj\source\repos\NEA---FINAL\half term nea\Git NEA\obj\Debug\net8.0-windows\ref\NEA.dll
